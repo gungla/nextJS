@@ -20,5 +20,9 @@ npm start
 
 ### API Routes:
 
-GET /api/articles
-GET /api/articles/:id
+- GET /api/articles
+- GET /api/articles/:id
+
+### Open http://localhost:3000 with your browser to see the result.
+
+
